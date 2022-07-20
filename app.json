@@ -1,5 +1,5 @@
 {
-  "name": "Zero-Two-Md",
+  "name": "TOXICKMS",
   "description": "A Whatsapp md bot build with nodejs",
   "repository": "https://github.com/sampandey001/Zero-Two-Md",
   "logo": "https://c4.wallpaperflare.com/wallpaper/885/793/289/anime-darling-in-the-franxx-zero-two-darling-in-the-franxx-wallpaper-preview.jpg",
@@ -9,11 +9,11 @@
 "env": {
   "BOT_NAME": {
   "description": "Name of your bot",
-   "value": "Zero-Two-Botto"
+   "value": "TOXICKMS"
   },
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "Ikshwaku Pandey"
+      "value": "KIRAN"
   },
    "SESSION_ID": {
 
@@ -22,7 +22,7 @@
   },
   "BOT_OWNER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "919628516236"
+       "value": "919207125340"
   },
   "OPENAI_API_KEY": {
     "description": "Put your OPENAI key here.If you don't have just go on beta.openai.com/signup and get your key.",
@@ -41,7 +41,7 @@
   },
   "SPACK_NAME": {
     "description": "Put Your Sticker Pack Name",
-     "value": "Zero-Two",
+     "value": "TOXICKMS",
      "required": false
        
     
