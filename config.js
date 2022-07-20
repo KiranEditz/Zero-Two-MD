@@ -47,7 +47,7 @@ global.author = 'TOXICKMS 𝐌𝐝 BOT' //sticker author name
 global.sessionName = process.env.SESSION_ID || 'SESSION-ID'
 global.zerotwo = "https://github.com/SamPandey001/Zero-Two-MD" //ur gc link
 global.zerotwo2 = "https://github.com/SamPandey001/Zero-Two-MD" //ur gc link2
-global.websitex = "HTTPS" //ur website
+global.websitex = "https://instagram.com/kiran_editz_10?igshid=YmMyMTA2M2Y=" //ur website
 global.prefa = ['-'] //prefix
 global.sp = '✨' //design
 module.exports = {
